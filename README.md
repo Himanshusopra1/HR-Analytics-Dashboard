@@ -4,6 +4,7 @@ Created a Power BI dashboard to analyze employee attrition, highlighting how man
 # 🧠 Employee Attrition Analysis Dashboard
 
 This Power BI project focuses on analyzing employee attrition to understand **how many employees left**, **why they left**, and the **factors contributing to their decisions**. The insights can help organizations improve retention strategies and enhance employee satisfaction.
+![HR Analytics Dashboard 1 image](https://github.com/user-attachments/assets/5b056939-408a-49e6-a59b-979c99baf131)
 
 
 ---
