@@ -16,7 +16,9 @@ This Power BI project focuses on analyzing employee attrition to understand **ho
 - **Average Age:** 37.81  
 - **Average Salary:** 6.65K  
 - **Average Years in Company:** 7.24  
-- **Gender Distribution:** 6 Male | 6 Female  
+- **Gender Distribution:** 6 Male | 6 Female
+- ![Dashboard image](https://github.com/user-attachments/assets/97bed512-cf92-4352-b4b8-8f16c4c5dd98)
+
 
 ---
 
